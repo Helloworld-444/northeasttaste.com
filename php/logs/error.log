@@ -1,0 +1,1707 @@
+[06-Jan-2025 00:14:03 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:14:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\home.php:3
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\index.php(42): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:14:07 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:14:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\home.php:3
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\index.php(42): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:21 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\home.php:3
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\index.php(42): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:21 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\home.php:3
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\index.php(42): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:22 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:19:22 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views/../models/Product.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\home.php:3
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\index.php(42): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\home.php on line 3
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 10
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 10
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Undefined global variable $_SESSION in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 11
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 11
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 38
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 38
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 44
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 44
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 49
+[06-Jan-2025 00:31:55 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 49
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:00 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusBadgeClass() in C:\xampp\htdocs\fooddelivery\php\views\profile.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 173
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusBadgeClass() in C:\xampp\htdocs\fooddelivery\php\views\profile.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 173
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusBadgeClass() in C:\xampp\htdocs\fooddelivery\php\views\profile.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 173
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 171
+[06-Jan-2025 00:34:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function getStatusBadgeClass() in C:\xampp\htdocs\fooddelivery\php\views\profile.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 173
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:24 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 21
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 22
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 23
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 24
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 25
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\fooddelivery\php\config.php on line 26
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 29
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 30
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 31
+[06-Jan-2025 00:34:29 Europe/Berlin] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\xampp\htdocs\fooddelivery\php\views\header.php:94) in C:\xampp\htdocs\fooddelivery\php\config.php on line 32
+[06-Jan-2025 00:58:57 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 00:58:57 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 00:58:57 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 00:58:57 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 00:59:02 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 00:59:02 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 00:59:02 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 00:59:02 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 01:05:48 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 01:05:48 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 01:05:48 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 01:05:48 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 01:05:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:05:49 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 01:05:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 01:05:49 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 01:05:49 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 01:05:49 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:05:53 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:05:54 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:05:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getDishesByCategory() in C:\xampp\htdocs\fooddelivery\php\views\menu.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\menu.php on line 19
+[06-Jan-2025 01:05:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:06:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:06:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:06:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:06:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:06:16 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:06:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:06:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(3)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:13:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\User.php:60
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\auth_controller.php(26): User->authenticate('admin@northeast...', 'Admin123')
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\auth_controller.php(167): AuthController->login()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\User.php on line 60
+[06-Jan-2025 01:13:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\User.php:60
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\auth_controller.php(26): User->authenticate('admin@northeast...', 'Admin123')
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\auth_controller.php(167): AuthController->login()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\User.php on line 60
+[06-Jan-2025 01:13:56 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getDishesByCategory() in C:\xampp\htdocs\fooddelivery\php\views\menu.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\menu.php on line 19
+[06-Jan-2025 01:15:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:15:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:15:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:15:58 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:16:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:19:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getRelatedDishes() in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php on line 165
+[06-Jan-2025 01:19:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:19:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:20:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:20:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:20:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getRelatedDishes() in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php on line 165
+[06-Jan-2025 01:20:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:20:57 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:21:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:21:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:21:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:21:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:21:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:21:07 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:21:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:22:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:22:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:23:03 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:23:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:24:34 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:25:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:26:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:27:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:49:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:50:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:51:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:52:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:53:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:54:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:54:48 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:54:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getRelatedDishes() in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php on line 165
+[06-Jan-2025 01:54:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:55:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getRelatedDishes() in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php:165
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\dish_details.php on line 165
+[06-Jan-2025 01:55:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:55:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:56:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:56:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:57:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:57:43 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:30 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:58:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:58:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(5)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 01:59:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 01:59:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:00:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:00:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:01:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:01:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:01:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:02:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Cart.php:197
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(189): Cart->getCartItemCount(1)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(279): CartController->getCount()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Cart.php on line 197
+[06-Jan-2025 02:02:59 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\Dish.php:85
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(38): Dish->getDishById(5)
+#1 C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php(267): CartController->addItem()
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\Dish.php on line 85
+[06-Jan-2025 02:04:24 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:04:37 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:04:55 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:04:58 Europe/Berlin] PHP Warning:  Undefined array key "category" in C:\xampp\htdocs\fooddelivery\php\views\cart.php on line 68
+[06-Jan-2025 02:04:58 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\cart.php on line 68
+[06-Jan-2025 02:04:58 Europe/Berlin] PHP Warning:  Undefined array key "instructions" in C:\xampp\htdocs\fooddelivery\php\views\cart.php on line 70
+[06-Jan-2025 02:04:58 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:05:28 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:05:58 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:06:28 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:06:58 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:07:28 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:08:29 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:14 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:16 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:19 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:22 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:29 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:31 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:09:35 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:09:35 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:09:47 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:09:47 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:09:52 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:09:52 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:10:01 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:10:31 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:11:01 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:11:31 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:11:51 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:11:53 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:11:53 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:11:59 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:11:59 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:12:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:12:51 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:13:13 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:13:15 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:13:20 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:13:22 Europe/Berlin] Error adding item to cart: SQLSTATE[HY093]: Invalid parameter number
+[06-Jan-2025 02:13:22 Europe/Berlin] Error adding item to cart: Failed to add item to cart
+[06-Jan-2025 02:13:50 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:13:56 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:14:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:14:58 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:15:05 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:17:05 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:17:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getDishesByCategory() in C:\xampp\htdocs\fooddelivery\php\views\menu.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\menu.php on line 19
+[06-Jan-2025 02:17:46 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:18:16 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:18:46 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:19:02 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:19:58 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:20:00 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:20:02 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:20:04 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:20:34 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:20:51 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:21:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:21:51 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:22:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:23:01 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:23:03 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:23:05 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:23:09 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:23:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:24:05 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:24:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:25:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:26:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:27:05 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:27:45 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:28:34 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:29:04 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:29:34 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:30:04 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:23 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:23 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:24 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:29 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:30 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:31:37 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:32:07 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:32:32 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:32:33 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:32:35 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:18 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:19 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:20 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:37:52 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:38:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:38:51 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:39:21 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:39:36 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:39:41 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:39:54 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:39:55 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:40:25 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:40:56 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:41:26 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:41:56 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:42:23 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:42:29 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:42:31 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:42:33 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:42:33 Europe/Berlin] Cart items: [{"cart_item_id":1,"user_id":1,"dish_id":4,"quantity":2,"instructions":"njn","name":"Masor Tenga","price":"220.00","category":"Assamese","image_url":"masor_tenga.jpg","available":1}]
+[06-Jan-2025 02:42:33 Europe/Berlin] Cart total: 440.00
+[06-Jan-2025 02:42:33 Europe/Berlin] Final total with delivery fee: 490
+[06-Jan-2025 02:42:33 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$pdo in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:42:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:73
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(334): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:43:01 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:43:31 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:44:01 Europe/Berlin] Cart controller error: Invalid action
+[06-Jan-2025 02:45:10 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:45:10 Europe/Berlin] Cart items: [{"cart_item_id":1,"user_id":1,"dish_id":4,"quantity":2,"instructions":"njn","name":"Masor Tenga","price":"220.00","category":"Assamese","image_url":"masor_tenga.jpg","available":1}]
+[06-Jan-2025 02:45:10 Europe/Berlin] Cart total: 440.00
+[06-Jan-2025 02:45:10 Europe/Berlin] Final total with delivery fee: 490
+[06-Jan-2025 02:45:10 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$pdo in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:45:10 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:73
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(334): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:45:33 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Dish::getDishesByCategory() in C:\xampp\htdocs\fooddelivery\php\views\menu.php:19
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\menu.php on line 19
+[06-Jan-2025 02:45:40 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:45:40 Europe/Berlin] Cart items: [{"cart_item_id":1,"user_id":1,"dish_id":4,"quantity":2,"instructions":"njn","name":"Masor Tenga","price":"220.00","category":"Assamese","image_url":"masor_tenga.jpg","available":1}]
+[06-Jan-2025 02:45:40 Europe/Berlin] Cart total: 440.00
+[06-Jan-2025 02:45:40 Europe/Berlin] Final total with delivery fee: 490
+[06-Jan-2025 02:45:40 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$pdo in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:45:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:73
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(334): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:46:25 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:46:25 Europe/Berlin] Cart items: [{"cart_item_id":2,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1},{"cart_item_id":3,"user_id":1,"dish_id":2,"quantity":1,"instructions":"","name":"Kangshoi","price":"150.00","category":"Manipuri","image_url":"kangshoi.jpg","available":1}]
+[06-Jan-2025 02:46:25 Europe/Berlin] Cart total: 330.00
+[06-Jan-2025 02:46:25 Europe/Berlin] Final total with delivery fee: 380
+[06-Jan-2025 02:46:25 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$pdo in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:46:25 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function beginTransaction() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:73
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(334): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 73
+[06-Jan-2025 02:49:04 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:49:04 Europe/Berlin] Cart items: [{"cart_item_id":2,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1},{"cart_item_id":3,"user_id":1,"dish_id":2,"quantity":1,"instructions":"","name":"Kangshoi","price":"150.00","category":"Manipuri","image_url":"kangshoi.jpg","available":1}]
+[06-Jan-2025 02:49:04 Europe/Berlin] Cart total: 330.00
+[06-Jan-2025 02:49:04 Europe/Berlin] Final total with delivery fee: 380
+[06-Jan-2025 02:49:04 Europe/Berlin] Transaction started
+[06-Jan-2025 02:49:04 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":380,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:49:04 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":380,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:49:04 Europe/Berlin] Order created with ID: 4
+[06-Jan-2025 02:49:04 Europe/Berlin] Order created successfully with ID: 4
+[06-Jan-2025 02:49:04 Europe/Berlin] Adding order item: {"cart_item_id":2,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}
+[06-Jan-2025 02:49:04 Europe/Berlin] Adding order item: {"cart_item_id":3,"user_id":1,"dish_id":2,"quantity":1,"instructions":"","name":"Kangshoi","price":"150.00","category":"Manipuri","image_url":"kangshoi.jpg","available":1}
+[06-Jan-2025 02:49:04 Europe/Berlin] Order items added successfully
+[06-Jan-2025 02:49:04 Europe/Berlin] Creating payment record with method: cash
+[06-Jan-2025 02:49:04 Europe/Berlin] Payment record created successfully
+[06-Jan-2025 02:49:04 Europe/Berlin] Transaction committed successfully
+[06-Jan-2025 02:49:17 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 02:49:17 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 02:49:17 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 02:49:17 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 02:49:24 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\order_details.php on line 45
+[06-Jan-2025 02:49:24 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\order_details.php on line 45
+[06-Jan-2025 02:49:47 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:49:47 Europe/Berlin] Cart items: []
+[06-Jan-2025 02:49:47 Europe/Berlin] Order creation failed: Empty cart for user 1
+[06-Jan-2025 02:51:24 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:51:24 Europe/Berlin] Cart items: [{"cart_item_id":4,"user_id":1,"dish_id":3,"quantity":1,"instructions":"","name":"Chamthong","price":"160.00","category":"Manipuri","image_url":"chamthong.jpg","available":1},{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 02:51:24 Europe/Berlin] Cart total: 340.00
+[06-Jan-2025 02:51:24 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 02:51:24 Europe/Berlin] Transaction started
+[06-Jan-2025 02:51:24 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:51:24 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:51:24 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 02:51:24 Europe/Berlin] Transaction rolled back. Error: Failed to create order record
+[06-Jan-2025 02:51:24 Europe/Berlin] Error creating order: Failed to create order record
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(337): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 02:51:58 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 02:51:58 Europe/Berlin] Cart items: [{"cart_item_id":4,"user_id":1,"dish_id":3,"quantity":1,"instructions":"","name":"Chamthong","price":"160.00","category":"Manipuri","image_url":"chamthong.jpg","available":1},{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 02:51:58 Europe/Berlin] Cart total: 340.00
+[06-Jan-2025 02:51:58 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 02:51:58 Europe/Berlin] Transaction started
+[06-Jan-2025 02:51:58 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:51:58 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 02:51:58 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 02:51:58 Europe/Berlin] Transaction rolled back. Error: Failed to create order record
+[06-Jan-2025 02:51:58 Europe/Berlin] Error creating order: Failed to create order record
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(337): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 03:01:05 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:01:05 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$dishModel in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:01:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getDishById() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:71
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(346): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:01:45 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:01:45 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$dishModel in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:01:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getDishById() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:71
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(346): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:02:26 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:02:26 Europe/Berlin] PHP Warning:  Undefined property: OrderController::$dishModel in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:02:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function getDishById() on null in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:71
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(346): OrderController->createOrder()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 71
+[06-Jan-2025 03:04:06 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 03:04:06 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:04:06 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 03:04:06 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 03:04:06 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:06 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:07 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 03:04:07 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 03:04:07 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(365): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 03:04:26 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 03:04:26 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:04:26 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 03:04:26 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 03:04:26 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:26 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:26 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 03:04:26 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 03:04:26 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(365): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 03:04:57 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 03:04:57 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 03:04:57 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 03:04:57 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 03:04:57 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:57 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 03:04:57 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 03:04:57 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 03:04:57 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(365): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:03:56 Europe/Berlin] Order controller request received: {"action":"create","total_amount":"390","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"3":"","1":""},"items":{"3":{"quantity":"1","price":"160.00"},"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:03:56 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:03:56 Europe/Berlin] Action requested: create
+[06-Jan-2025 08:03:56 Europe/Berlin] Creating new order...
+[06-Jan-2025 08:03:56 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:03:56 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 08:03:56 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:03:56 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:03:56 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:03:56 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:03:56 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:03:56 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(373): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:04:46 Europe/Berlin] Order controller request received: {"action":"create","total_amount":"390","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"3":"","1":""},"items":{"3":{"quantity":"1","price":"160.00"},"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:04:46 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:04:46 Europe/Berlin] Action requested: create
+[06-Jan-2025 08:04:46 Europe/Berlin] Creating new order...
+[06-Jan-2025 08:04:46 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:04:46 Europe/Berlin] Final total with delivery fee: 390
+[06-Jan-2025 08:04:46 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:04:46 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:04:46 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":390,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:04:46 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:04:46 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:04:46 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(373): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:08:44 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 08:08:44 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 08:08:44 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 08:08:44 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 08:17:07 Europe/Berlin] Order controller request received: {"action":"create","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:17:07 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:17:07 Europe/Berlin] Action requested: create
+[06-Jan-2025 08:17:07 Europe/Berlin] Creating new order...
+[06-Jan-2025 08:17:07 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:17:07 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:17:07 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:17:07 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:17:07 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:17:07 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:17:07 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:17:07 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(373): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:19:28 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:19:28 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:19:28 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:19:28 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:19:28 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:28 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:28 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:19:28 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:19:28 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(364): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:19:33 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:19:33 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:19:33 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:19:33 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:19:33 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:33 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:33 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:19:33 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:19:33 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(364): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:19:38 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:19:38 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:19:38 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:19:38 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:19:38 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:38 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:19:38 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:19:38 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:19:38 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(364): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:19:53 Europe/Berlin] PHP Warning:  Undefined array key "order_date" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 08:19:53 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 177
+[06-Jan-2025 08:19:53 Europe/Berlin] PHP Warning:  Undefined array key "items" in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 08:19:53 Europe/Berlin] PHP Warning:  foreach() argument must be of type array|object, null given in C:\xampp\htdocs\fooddelivery\php\views\profile.php on line 185
+[06-Jan-2025 08:20:03 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:20:03 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:20:03 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:20:03 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:20:03 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:20:03 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:20:03 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:20:03 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:20:03 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(364): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:20:17 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 27
+[06-Jan-2025 08:20:17 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:20:17 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:20:17 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:20:17 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:20:17 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:20:17 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:20:17 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:20:17 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(364): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:23:06 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 41
+[06-Jan-2025 08:23:06 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:23:06 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:23:06 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:23:06 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:06 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:06 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:23:06 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:23:06 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(384): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:23:14 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 41
+[06-Jan-2025 08:23:14 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:23:14 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:23:14 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:23:14 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:14 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:14 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:23:14 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:23:14 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(384): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:23:29 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 41
+[06-Jan-2025 08:23:29 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:23:29 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:23:29 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:23:29 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:29 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:23:29 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:23:29 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:23:29 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(384): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:25:16 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 41
+[06-Jan-2025 08:25:16 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:25:16 Europe/Berlin] Session data: []
+[06-Jan-2025 08:25:16 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:25:16 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:25:16 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:25:16 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:25:16 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:25:16 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:25:16 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:25:16 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(394): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:25:22 Europe/Berlin] PHP Deprecated:  Creation of dynamic property OrderController::$dishModel is deprecated in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 41
+[06-Jan-2025 08:25:22 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:25:22 Europe/Berlin] Session data: []
+[06-Jan-2025 08:25:22 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:25:22 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:25:22 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:25:22 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:25:22 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:25:22 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:25:22 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:25:22 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(394): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:26:19 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:26:19 Europe/Berlin] Session data: []
+[06-Jan-2025 08:26:19 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:26:19 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:26:19 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:26:19 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:26:19 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:26:19 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:26:19 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:26:19 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(395): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:26:25 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:26:25 Europe/Berlin] Session data: []
+[06-Jan-2025 08:26:25 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:26:25 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:26:25 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:26:25 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:26:25 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:26:25 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:26:25 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:26:25 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(395): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:28:18 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:28:18 Europe/Berlin] Session data: []
+[06-Jan-2025 08:28:18 Europe/Berlin] Server method: POST
+[06-Jan-2025 08:28:18 Europe/Berlin] Available POST fields: action, total_amount, payment_status, delivery_address, item_instructions, items, payment_method
+[06-Jan-2025 08:28:18 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:28:18 Europe/Berlin] Cart items before processing: [{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 08:28:18 Europe/Berlin] Delivery address: Imphal, Manipur
+[06-Jan-2025 08:28:18 Europe/Berlin] Payment method: cash
+[06-Jan-2025 08:28:18 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:28:18 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:28:18 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:28:18 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:28:18 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:28:18 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:28:18 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(409): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:28:51 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:28:51 Europe/Berlin] Session data: []
+[06-Jan-2025 08:28:51 Europe/Berlin] Server method: POST
+[06-Jan-2025 08:28:51 Europe/Berlin] Available POST fields: action, total_amount, payment_status, delivery_address, item_instructions, items, payment_method
+[06-Jan-2025 08:28:51 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:28:51 Europe/Berlin] Cart items before processing: [{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 08:28:51 Europe/Berlin] Delivery address: Imphal, Manipur
+[06-Jan-2025 08:28:51 Europe/Berlin] Payment method: cash
+[06-Jan-2025 08:28:51 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:28:51 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:28:51 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:28:51 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:28:51 Europe/Berlin] Error creating order in model: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'
+SQL State: 42S22
+[06-Jan-2025 08:28:51 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:28:51 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(409): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:31:09 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:31:09 Europe/Berlin] Session data: []
+[06-Jan-2025 08:31:09 Europe/Berlin] Server method: POST
+[06-Jan-2025 08:31:09 Europe/Berlin] Available POST fields: action, total_amount, payment_status, delivery_address, item_instructions, items, payment_method
+[06-Jan-2025 08:31:09 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:31:09 Europe/Berlin] Cart items before processing: [{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 08:31:09 Europe/Berlin] Delivery address: Imphal, Manipur
+[06-Jan-2025 08:31:09 Europe/Berlin] Payment method: cash
+[06-Jan-2025 08:31:09 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:31:09 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:31:09 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:31:09 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:31:09 Europe/Berlin] Order model error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:31:09 Europe/Berlin] Failed to create order record. SQL Error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:31:09 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:31:09 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(416): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:41:14 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:41:14 Europe/Berlin] Session data: []
+[06-Jan-2025 08:41:14 Europe/Berlin] Server method: POST
+[06-Jan-2025 08:41:14 Europe/Berlin] Available POST fields: action, total_amount, payment_status, delivery_address, item_instructions, items, payment_method
+[06-Jan-2025 08:41:14 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:41:14 Europe/Berlin] Cart items before processing: [{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 08:41:14 Europe/Berlin] Delivery address: Imphal, Manipur
+[06-Jan-2025 08:41:14 Europe/Berlin] Payment method: cash
+[06-Jan-2025 08:41:14 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:41:14 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:41:14 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:41:14 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:41:14 Europe/Berlin] Order model error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:41:14 Europe/Berlin] Failed to create order record. SQL Error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:41:14 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:41:14 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(416): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:41:21 Europe/Berlin] Order creation request received - POST data: {"action":"createOrder","total_amount":"230","payment_status":"pending","delivery_address":"Imphal, Manipur","item_instructions":{"1":""},"items":{"1":{"quantity":"1","price":"180.00"}},"payment_method":"cash"}
+[06-Jan-2025 08:41:21 Europe/Berlin] Session data: []
+[06-Jan-2025 08:41:21 Europe/Berlin] Server method: POST
+[06-Jan-2025 08:41:21 Europe/Berlin] Available POST fields: action, total_amount, payment_status, delivery_address, item_instructions, items, payment_method
+[06-Jan-2025 08:41:21 Europe/Berlin] Processing order for user ID: 1
+[06-Jan-2025 08:41:21 Europe/Berlin] Cart items before processing: [{"cart_item_id":5,"user_id":1,"dish_id":1,"quantity":1,"instructions":"","name":"Eromba","price":"180.00","category":"Manipuri","image_url":"eromba.jpg","available":1}]
+[06-Jan-2025 08:41:21 Europe/Berlin] Delivery address: Imphal, Manipur
+[06-Jan-2025 08:41:21 Europe/Berlin] Payment method: cash
+[06-Jan-2025 08:41:21 Europe/Berlin] Final total with delivery fee: 230
+[06-Jan-2025 08:41:21 Europe/Berlin] Transaction started for order creation
+[06-Jan-2025 08:41:21 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:41:21 Europe/Berlin] Creating order with data: {"user_id":1,"delivery_address":"Imphal, Manipur","total_amount":230,"status":"pending","payment_status":"pending"}
+[06-Jan-2025 08:41:21 Europe/Berlin] Order model error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:41:21 Europe/Berlin] Failed to create order record. SQL Error: {"message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'created_at' in 'field list'","code":"42S22","sqlState":"42S22"}
+[06-Jan-2025 08:41:21 Europe/Berlin] Transaction rolled back. Error: Failed to create order record in database
+[06-Jan-2025 08:41:21 Europe/Berlin] Error creating order: Failed to create order record in database
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php(416): OrderController->createOrder()
+#1 {main}
+[06-Jan-2025 08:45:56 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php on line 94
+[06-Jan-2025 08:46:10 Europe/Berlin] Order creation started - POST data: Array
+(
+    [action] => createOrder
+    [total_amount] => 370
+    [payment_status] => pending
+    [delivery_address] => Imphal, Manipur
+    [item_instructions] => Array
+        (
+            [3] => 
+        )
+
+    [items] => Array
+        (
+            [3] => Array
+                (
+                    [quantity] => 2
+                    [price] => 160.00
+                )
+
+        )
+
+    [payment_method] => cash
+)
+
+[06-Jan-2025 08:46:10 Europe/Berlin] Session data: Array
+(
+)
+
+[06-Jan-2025 08:46:10 Europe/Berlin] Order creation failed: User not logged in
+[06-Jan-2025 08:46:15 Europe/Berlin] Order creation started - POST data: Array
+(
+    [action] => createOrder
+    [total_amount] => 370
+    [payment_status] => pending
+    [delivery_address] => Imphal, Manipur
+    [item_instructions] => Array
+        (
+            [3] => 
+        )
+
+    [items] => Array
+        (
+            [3] => Array
+                (
+                    [quantity] => 2
+                    [price] => 160.00
+                )
+
+        )
+
+    [payment_method] => cash
+)
+
+[06-Jan-2025 08:46:15 Europe/Berlin] Session data: Array
+(
+)
+
+[06-Jan-2025 08:46:15 Europe/Berlin] Order creation failed: User not logged in
+[06-Jan-2025 08:48:03 Europe/Berlin] Order creation started - POST data: Array
+(
+    [action] => createOrder
+    [total_amount] => 370
+    [payment_status] => pending
+    [delivery_address] => zoo road
+    [item_instructions] => Array
+        (
+            [3] => 
+        )
+
+    [items] => Array
+        (
+            [3] => Array
+                (
+                    [quantity] => 2
+                    [price] => 160.00
+                )
+
+        )
+
+    [payment_method] => cash
+)
+
+[06-Jan-2025 08:48:03 Europe/Berlin] Session data: Array
+(
+)
+
+[06-Jan-2025 08:48:03 Europe/Berlin] Order creation failed: User not logged in
+[06-Jan-2025 08:48:11 Europe/Berlin] Order creation started - POST data: Array
+(
+    [action] => createOrder
+    [total_amount] => 370
+    [payment_status] => pending
+    [delivery_address] => zoo road
+    [item_instructions] => Array
+        (
+            [3] => 
+        )
+
+    [items] => Array
+        (
+            [3] => Array
+                (
+                    [quantity] => 2
+                    [price] => 160.00
+                )
+
+        )
+
+    [payment_method] => cash
+)
+
+[06-Jan-2025 08:48:11 Europe/Berlin] Session data: Array
+(
+)
+
+[06-Jan-2025 08:48:11 Europe/Berlin] Order creation failed: User not logged in
+[06-Jan-2025 08:54:34 Europe/Berlin] Order creation started - POST data: Array
+(
+    [action] => createOrder
+    [total_amount] => 370
+    [payment_status] => pending
+    [delivery_address] => zoo road
+    [item_instructions] => Array
+        (
+            [3] => 
+        )
+
+    [items] => Array
+        (
+            [3] => Array
+                (
+                    [quantity] => 2
+                    [price] => 160.00
+                )
+
+        )
+
+    [payment_method] => cash
+)
+
+[06-Jan-2025 08:54:34 Europe/Berlin] Session data: Array
+(
+)
+
+[06-Jan-2025 08:54:34 Europe/Berlin] Order creation failed: User not logged in
+[06-Jan-2025 09:09:55 Europe/Berlin] PHP Warning:  Undefined array key "quantity" in C:\xampp\htdocs\fooddelivery\php\controllers\cart_controller.php on line 94
+[06-Jan-2025 09:16:24 Europe/Berlin] Creating payment with data: Array
+(
+    [order_id] => 5
+    [amount] => 160
+    [method] => cash
+    [status] => pending
+)
+
+[06-Jan-2025 09:16:24 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:18:27 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:18:28 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:19:18 Europe/Berlin] Creating payment with data: Array
+(
+    [order_id] => 6
+    [amount] => 160
+    [method] => cash
+    [status] => pending
+)
+
+[06-Jan-2025 09:19:18 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:22:51 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:23:07 Europe/Berlin] Creating payment with data: Array
+(
+    [order_id] => 7
+    [amount] => 220
+    [method] => cash
+    [status] => pending
+)
+
+[06-Jan-2025 09:23:07 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:27:03 Europe/Berlin] Creating payment with data: Array
+(
+    [order_id] => 8
+    [amount] => 220
+    [method] => cash
+    [status] => pending
+)
+
+[06-Jan-2025 09:27:03 Europe/Berlin] Error in order controller: No action specified
+Stack trace: #0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+POST data: Array
+(
+)
+
+[06-Jan-2025 09:27:03 Europe/Berlin] PHP Fatal error:  Uncaught Exception: No action specified in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php:336
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\order_confirmation.php(4): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\controllers\order_controller.php on line 336
+[06-Jan-2025 09:29:39 Europe/Berlin] Creating payment with data: Array
+(
+    [order_id] => 9
+    [amount] => 120
+    [method] => cash
+    [status] => pending
+)
+
+[06-Jan-2025 09:30:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Order::getUserOrders() in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:43:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Order::getUserOrders() in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:43:41 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined method Order::getUserOrders() in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:45:05 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:45:05 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:45:06 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:45:06 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:45:34 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:45:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:45:34 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:45:34 Europe/Berlin] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 21
+[06-Jan-2025 09:45:47 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:45:58 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:46:07 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:47:29 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:47:29 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:47:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\orders.php(56): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:47:29 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:47:29 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:47:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\orders.php(56): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:49:21 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:49:23 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:49:25 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:49:27 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:49:30 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:49:33 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:51:54 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:00 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:07 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:09 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\fooddelivery\php\views\admin\users.php on line 6
+[06-Jan-2025 09:52:09 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\fooddelivery\php\views\admin\users.php on line 7
+[06-Jan-2025 09:52:09 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\User.php:203
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\users.php(8): User->getAllUsers()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\User.php on line 203
+[06-Jan-2025 09:52:22 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:23 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:28 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:51 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:52:52 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\fooddelivery\php\views\admin\users.php on line 6
+[06-Jan-2025 09:52:52 Europe/Berlin] PHP Warning:  Undefined variable $pdo in C:\xampp\htdocs\fooddelivery\php\views\admin\users.php on line 7
+[06-Jan-2025 09:52:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\xampp\htdocs\fooddelivery\php\models\User.php:203
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\users.php(8): User->getAllUsers()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\models\User.php on line 203
+[06-Jan-2025 09:53:04 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:53:05 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:36 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:36 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:37 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:38 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:38 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:39 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:39 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:40 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:54:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:54:42 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:54:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\menu.php(34): require_once('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:54:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\about.php(15): include('C:\\xampp\\htdocs...')
+#2 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:54:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:54:52 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:02 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:36 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:38 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:55:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "User" not found in C:\xampp\htdocs\fooddelivery\php\helpers.php:65
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\header.php(117): isAdmin()
+#1 C:\xampp\htdocs\fooddelivery\php\views\home.php(5): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\fooddelivery\index.php(83): require_once('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\helpers.php on line 65
+[06-Jan-2025 09:56:08 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:11 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:56:11 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\orders.php(56): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:56:13 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:15 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:15 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:15 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:56:15 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:58:29 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 09:58:29 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 09:58:29 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php(149): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 10:00:44 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:46 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:46 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:46 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:46 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:47 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:02:47 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:10 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:10 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:10 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:10 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:11 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:30 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:03:30 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:18 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:18 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:27 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:27 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 10:04:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\orders.php(56): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 10:04:28 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:28 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:47 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:04:47 Europe/Berlin] PHP Warning:  require_once(C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php): Failed to open stream: No such file or directory in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 10:04:47 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'C:\xampp\htdocs\fooddelivery\php\views\admin/../../middleware/admin_auth.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php:4
+Stack trace:
+#0 C:\xampp\htdocs\fooddelivery\php\views\admin\orders.php(56): require_once()
+#1 {main}
+  thrown in C:\xampp\htdocs\fooddelivery\php\views\admin\layout.php on line 4
+[06-Jan-2025 10:06:03 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:05 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:05 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:06 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:07 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:07 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:09 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:10 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:10 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:12 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:12 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:06:17 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:08 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:10 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:10 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:11 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:13 Europe/Berlin] Error getting user orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:08:13 Europe/Berlin] Error fetching orders: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'o.created_at' in 'order clause'
+[06-Jan-2025 10:11:28 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:28 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:37 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:11:37 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:11:49 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Warning:  Undefined array key "created_at" in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:11:49 Europe/Berlin] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\dashboard.php on line 395
+[06-Jan-2025 10:13:20 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:15:08 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:15:09 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:15:09 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:15:12 Europe/Berlin] PHP Warning:  Undefined array key "first_name" in C:\xampp\htdocs\fooddelivery\php\views\admin\order-details.php on line 101
+[06-Jan-2025 10:15:12 Europe/Berlin] PHP Warning:  Undefined array key "last_name" in C:\xampp\htdocs\fooddelivery\php\views\admin\order-details.php on line 101
+[06-Jan-2025 10:15:12 Europe/Berlin] PHP Warning:  Undefined array key "email" in C:\xampp\htdocs\fooddelivery\php\views\admin\order-details.php on line 105
+[06-Jan-2025 10:15:12 Europe/Berlin] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\xampp\htdocs\fooddelivery\php\views\admin\order-details.php on line 105
+[06-Jan-2025 10:15:12 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fooddelivery\php\middleware\admin_auth.php on line 6
+[06-Jan-2025 10:16:38 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fooddelivery\php\middleware\admin_auth.php on line 6
+[06-Jan-2025 10:16:39 Europe/Berlin] PHP Notice:  session_start(): Ignoring session_start() because a session is already active in C:\xampp\htdocs\fooddelivery\php\middleware\admin_auth.php on line 6
+[06-Jan-2025 10:19:34 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:19:34 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:24:53 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:24:53 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:24:53 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:24:53 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:25:02 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:25:02 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:25:42 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:25:42 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:26:26 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:26:26 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:26:26 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:26:26 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:26:26 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:26:26 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:26:26 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:26:26 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:26:33 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:26:33 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:27:03 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:27:06 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:27:06 Europe/Berlin] Number of orders fetched: 9
+[06-Jan-2025 10:27:20 Europe/Berlin] Found 9 orders
+[06-Jan-2025 10:27:20 Europe/Berlin] Number of orders fetched: 9
